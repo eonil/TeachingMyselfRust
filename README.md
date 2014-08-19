@@ -24,7 +24,7 @@ any other C/C++ libraries into there.
 
 -	`b1` --- Compiling a host program for iOS. Doesn't work. It needs cross-compiler, and the cross-compiler is not shipped with default Homebrew distribution.
 
--	`c1` --- Link Rust library into C and calls AppKit. This works. Do not run using Xcode. Just run `all.bash`. Take care your current directory must be `c1`.
+-	`c1` --- Link Rust library into C and calls AppKit. This works. Do not run using Xcode. Just run `all.bash`. Take care your current directory must be `c1`. You can check print log by running the app in `lldb`.
 
 
  
