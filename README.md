@@ -25,7 +25,7 @@ Linking itself is working well.
 
 
 
-
-See more:
- 
+Helpful Links
+-------------
+-	http://smallcultfollowing.com/babysteps/blog/2013/02/22/interfacing-with-c-functions-in-rust/
 -	https://github.com/shilgapira/ObjCrust
