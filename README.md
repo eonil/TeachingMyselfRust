@@ -17,7 +17,7 @@ Linking itself is working well.
 
 -	`a1` --- Calling Rust function from C program works for simple signatures.
 -	`a2` --- Spawning a new Rust task doesn't work. It crashes.
-
+-	`a3` --- `a2` with no `println` or `printf!` calling.
 
 
 
